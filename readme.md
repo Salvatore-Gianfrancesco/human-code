@@ -1,0 +1,33 @@
+# PROBLEMA/SOLUZIONE: Il Regalo Perfetto
+
+- Apro Google
+- Apro barra di ricerca
+- Cerco Amazon
+- Click sul link di Amazon
+- SE (la pagina non ha salvato il mio account) ALLORA
+    - Effettuo l'accesso
+- ALTRIMENTI
+    - Cerco una lampada
+    - Controllo se l'articolo è Prime
+    - SE (l'articolo è prime) ALLORA
+        - Aggiungo l'articolo al carrello
+        - Inserisco i dati di pagamento
+        - Effettuo l'ordine della lampada
+    - ALTRIMENTI
+        - Proseguo la ricerca del regalo
+        - Cerco una penna stilografica
+        - Controllo se l'articolo sfora il budget
+        - SE (l'articolo sfora il budget) ALLORA
+            - Proseguo la ricerca del regalo
+            - Cerco un libro classico
+            - SE (l'articolo è prime) E (non sfora il budget) ALLORA
+                - Aggiungo l'articolo al carrello
+                - Inserisco i dati di pagamento
+                - Effettuo l'ordine del libro
+            - ALTRIMENTI
+                - "Vado nel panico perchè non ho il regalo"
+        - ALTRIMENTI
+            - Aggiungo l'articolo al carrello
+            - Inserisco i dati di pagamento
+            - Effettuo l'ordine della penna stilografica
+- Auguri Silvia!
